@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋 I'm Christopher Jung
 
-<!--
-**chrisjung0919/chrisjung0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student @ UC Riverside**  
+📌 Passionate about coding, creative problem-solving, and using technology to make a real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🧠 Strong foundation in **C++**, **Python**, and **HTML/CSS**  
+- 📚 Studying **Data Structures**, **Algorithms**, **Computer Organization**, and **Multivariable Calculus**  
+- 🌱 Building projects that combine **technical skill** and **purpose**, including brain training games and face recognition tools  
+- 🌍 Trilingual: Fluent in **Korean**, **English**, and conversational **Chinese**
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Face Recognition Program](https://github.com/chrisjung0919/face_recognition_program)  
+> Python project using OpenCV and face_recognition to identify faces from images and webcam  
+> Built as a personal initiative from online tutorials and adapted to run in real time  
+
+### 🔹 [CalcGame](https://github.com/chrisjung0919/CalcGame)  
+> Unity-based math game (forked) – exploring interactivity and gamified learning tools  
+> ShaderLab and Unity coworking experiments  
+
+### 🔹 [Wushu Website](https://wushu.ucrhighlanders.org/)  
+> Official site for UCR Wushu Club – developed and styled key pages including a responsive Contact page  
+> Built with HTML/CSS as part of the ACM Spark team  
+
+### 🔹 Shoestar & Smiley App (Teacher’s Assistant Role)  
+> Collaborated on mobile app development and guided student groups  
+> Designed interfaces and provided technical support  
+
+---
+
+## 🎯 Goals
+
+- 🔧 Continue building useful and creative tech solutions  
+- ✝️ Use my talents to serve others and share God’s Word  
+- 💼 Grow as a developer, tutor, and community contributor  
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chris-jung-665910319/)  
+- 💻 [Portfolio](http://chrij.gitastudent.online/)  
+- 🧠 [GitHub Projects](https://github.com/chrisjung0919)  
+
+---
+
+📌 *Currently open to part-time tutoring or CS-related internship opportunities!*
