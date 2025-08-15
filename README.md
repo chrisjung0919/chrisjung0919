@@ -28,10 +28,6 @@
 > Official site for UCR Wushu Club – developed and styled key pages including a responsive Contact page  
 > Built with HTML/CSS as part of the ACM Spark team  
 
-### 🔹 Shoestar & Smiley App (Teacher’s Assistant Role)  
-> Collaborated on mobile app development and guided student groups  
-> Designed interfaces and provided technical support  
-
 ---
 
 ## 🎯 Goals
