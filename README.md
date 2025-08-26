@@ -41,7 +41,6 @@
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chris-jung-665910319/)  
-- 💻 [Portfolio](http://chrij.gitastudent.online/)  
 
 ---
 
