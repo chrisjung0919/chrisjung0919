@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="DifferencebetweenaFullStackDeveloperandaSoftwareEngineer-7.gif" alt="Coding GIF" width="100%" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>AI-powered resume analysis tools, computer vision projects, and desktop applications<br><br>👯 I’m looking to collaborate on<br>Beginner to intermediate open-source projects related to software engineering, data structures, or web development<br><br>🤝 I’m looking for help with<br>Improving system design, testing practices, and writing clean, scalable code<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Computer Organization, and advanced problem-solving techniques<br><br>🎯 Goal: <br>Aspiring Software Engineer / ML Engineer focused on building practical AI tools and scalable systems<br><br>💬 Ask me about<br>Python, C++, data structures, tutoring math, or building personal CS projects<br><br>⚡ Fun fact<br>I’m trilingual — fluent in Korean and English, with conversational Chinese — and enjoy teaching and building tools that help people learn more effectively<br>
 
